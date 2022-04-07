@@ -1,4 +1,4 @@
-Welcome to my Github - Cyber Security page
+Welcome to my Cyber Security page, and my progress.
 Here you will find all all the neccesary commands, tools, cheatsheets that I am able to use within CTF's and bugbounty hunting :-)
 
 You can use the [editor on GitHub](https://github.com/Forgiven26/kdgforgiven.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
