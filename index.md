@@ -1,6 +1,9 @@
 Welcome to my Cyber Security page, and my progress.
 Here you will find all all the neccesary commands, tools, cheatsheets that I am able to use within CTF's and bugbounty hunting :-)
 
+My other blog is my wordpress: kdgforgiven.wordpress.com
+Here you will find stuff related to my progress step by learning python, following courses etc. 
+
 You can use the [editor on GitHub](https://github.com/Forgiven26/kdgforgiven.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
